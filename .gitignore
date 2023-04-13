@@ -1,5 +1,14 @@
 videos/
+videos_temp/
 frames/
+frames_kaarina/
+frames_testi/
+kaarina/
+pre-annotations/
+testi-vp05/
+testi-vp20/
+testi-vp40/
+testi-vp60/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
